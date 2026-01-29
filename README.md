@@ -1,5 +1,7 @@
 TRY HERE -> https://bankaccountgame.netlify.app/
 
+EXPLANATION:
+
 
 The Game Starts with no options available until you press "Open account".
 
