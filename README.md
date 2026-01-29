@@ -1,5 +1,9 @@
 TRY HERE -> https://bankaccountgame.netlify.app/
 
+VIDEO:
+https://github.com/user-attachments/assets/822a882f-a1d7-4115-8148-fb232651f79a
+
+
 EXPLANATION:
 
 
@@ -24,10 +28,5 @@ You can take out 1 loan at a time by pressing "Request Loan" and you can only pa
 You can only close the account when your account is at $0 and your loan is paid off.
 
 <img width="356" height="415" alt="Screenshot 2026-01-29 at 11 49 35 AM" src="https://github.com/user-attachments/assets/9a530596-30ef-4522-ab9d-5c9ca7fefbc9" />
-
-
-https://github.com/user-attachments/assets/822a882f-a1d7-4115-8148-fb232651f79a
-
-
 
 
