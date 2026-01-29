@@ -1,7 +1,11 @@
 TRY HERE -> https://bankaccountgame.netlify.app/
 
 VIDEO:
-https://github.com/user-attachments/assets/822a882f-a1d7-4115-8148-fb232651f79a
+
+
+https://github.com/user-attachments/assets/cf17d347-09a4-437a-b9b1-4b3a252241f9
+
+
 
 
 EXPLANATION:
