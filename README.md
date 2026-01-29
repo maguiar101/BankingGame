@@ -4,13 +4,13 @@ The Game Starts with no options available until you press "Open account".
 
 
 
-Once you open the account you get $500 and unlock the other options. You can now deposit or withdraw as you please.
+Once you open the account you get $500 and unlock the other options. You can now deposit or withdraw as you please, and you can go negative.
 
 <img width="387" height="418" alt="Screenshot 2026-01-29 at 11 48 59 AM" src="https://github.com/user-attachments/assets/de135915-221f-469c-87f5-e5840064a793" />
 
 
 
-You can take out 1 loan at a time by pressing "Request Loan" and you can only pay off the loan if you have enough money in your account. You can go negative.
+You can take out 1 loan at a time by pressing "Request Loan" and you can only pay off the loan if you have enough money in your account. 
 
 <img width="322" height="413" alt="Screenshot 2026-01-29 at 11 49 10 AM" src="https://github.com/user-attachments/assets/3428ea88-427e-47ae-a43d-bc96b02fa65b" />
 
