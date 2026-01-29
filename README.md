@@ -4,7 +4,7 @@ The Game Starts with no options available until you press "Open account".
 
 
 
-Once you open the account you get $500 to start adny unlock the other options.
+Once you open the account you get $500 and unlock the other options. You can now deposit or withdraw as you please.
 
 <img width="387" height="418" alt="Screenshot 2026-01-29 at 11 48 59 AM" src="https://github.com/user-attachments/assets/de135915-221f-469c-87f5-e5840064a793" />
 
