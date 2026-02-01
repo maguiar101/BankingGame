@@ -1,6 +1,6 @@
-TRY HERE -> https://bankaccountgame.netlify.app/
+*TRY HERE* -> https://bankaccountgame.netlify.app/
 
-VIDEO:
+*VIDEO:*
 
 
 https://github.com/user-attachments/assets/cf17d347-09a4-437a-b9b1-4b3a252241f9
@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/cf17d347-09a4-437a-b9b1-4b3a252241f9
 
 
 
-EXPLANATION:
+*EXPLANATION:*
 
 
 The Game Starts with no options available until you press "Open account".
